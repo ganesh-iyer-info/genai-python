@@ -3,11 +3,11 @@
 This project compares a resume to multiple job descriptions using TF-IDF and cosine similarity, ranking them by relevance. It demonstrates how NLP can optimize career matching and ATS systems.
 
 ## 🔧 Tools Used
-- Python 3.11
+- Python 3.14
 - NLTK
 - Scikit-learn
 
-## 🧠 Skills Demonstrated
+## 🧠 Topics
 - Text preprocessing and token filtering
 - TF-IDF vectorization
 - Cosine similarity scoring
