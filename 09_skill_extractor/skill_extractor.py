@@ -8,7 +8,7 @@ from nltk.corpus import stopwords
 
 # Sample resume text
 resume_text = """
-Ganesh Iyer is a transformation leader and technical program manager with expertise in Python, Agile, stakeholder alignment, cloud modernization, data center infrastructure, and platform reliability. He has hands-on experience with Scikit-learn, NLTK, Git, and CI/CD pipelines.
+Ganesh Iyer is a hands-on practitioner with expertise in Python, Agile, stakeholder alignment, cloud modernization, data center infrastructure, and platform reliability. He has developed with Scikit-learn, NLTK, Git, and CI/CD pipelines.
 """
 
 # Define skill keywords
