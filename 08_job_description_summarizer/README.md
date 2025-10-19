@@ -3,11 +3,11 @@
 This project summarizes long job descriptions by ranking sentences using TF-IDF scores. It’s a practical NLP tool for recruiters, hiring managers, and job seekers.
 
 ## 🔧 Tools Used
-- Python 3.11
+- Python 3.14
 - NLTK
 - Scikit-learn
 
-## 🧠 Skills Demonstrated
+## 🧠 Topics addressed
 - Sentence tokenization
 - TF-IDF vectorization
 - Keyword-based sentence ranking
